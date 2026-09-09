@@ -31,4 +31,4 @@ Fetch client metadata or manifest info from Roblox setup CDN:
 roblox-pe fetch version-abcdef1234567890 --channel LIVE
 ```
 
-<!-- checked: 2026-09-08 -->
+<!-- checked: 2026-09-09 -->
